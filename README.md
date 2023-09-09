@@ -1,4 +1,4 @@
-## 🍁 Nextron (Electron + Next)
+## 🍁 Nextron (Electron + Next + Tailwind CSS)
 
 Nextron is basically a electron based web app which wraps Next Js, so that we can use Next Js and it's features inside Electron Js.
 
