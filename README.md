@@ -14,6 +14,9 @@ Simply run this command in your terminal and you are good to go 🚀.
 
 ```
 git clone https://github.com/ScreenTechnicals/NextronJs.git
+cd NextronJs
+yarn
+yarn dev
 ```
 
 ### Nextron Repo
