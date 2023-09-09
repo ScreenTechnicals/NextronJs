@@ -1,38 +1,21 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+## 🍁 Nextron (Electron + Next)
 
-## Usage
+Nextron is basically a electron based web app which wraps Next Js, so that we can use Next Js and it's features inside Electron Js.
 
-### Create an App
+### How To Use Next Js 13
 
-```
-# with npx
-$ npx create-nextron-app my-app --example with-tailwindcss
+So basically the nextron package does not have next js 13 configuration by default, so to sort that I have created this Nextron template for Next Js 13.
 
-# with yarn
-$ yarn create nextron-app my-app --example with-tailwindcss
+Currently it only supports pages router.
 
-# with pnpm
-$ pnpm dlx create-nextron-app my-app --example with-tailwindcss
-```
+### How To Use ?
 
-### Install Dependencies
+Simply run this command in your terminal and you are good to go 🚀.
 
 ```
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
+git clone https://github.com/ScreenTechnicals/NextronJs.git
 ```
 
-### Use it
+### Nextron Repo
 
-```
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
+[Visit Original Repo Of Nextron](https://github.com/saltyshiomix/nextron)
